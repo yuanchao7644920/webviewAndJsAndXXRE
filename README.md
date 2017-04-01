@@ -7,5 +7,5 @@ webview中安卓原生和js交互案例， RecyclerView 加上折叠的效果，
 <br>
 <h2>这是RecyclerView 加上折叠的效果</h2>
 <br>
-<img src="pic1.png" width="320px"/>
+<img src="gif1.gif" width="320px"/>
 
